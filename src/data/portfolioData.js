@@ -45,7 +45,7 @@ export const portfolioData = {
     backend: ["Node.js", "Express.js", "FastAPI", "RESTful APIs", "JWT Auth", "Stripe Webhooks"],
     aiml: ["Google Gemini API", "LangChain", "DeepFace", "Sentence Transformers (MiniLM)", "newspaper3k"],
     databases: ["MongoDB", "PostgreSQL", "MySQL", "Redis (Caching & State)"],
-    tools: ["Docker", "Git / GitHub", "Vercel", "Render", "AWS Fundamentals", "VS Code", "IntelliJ IDEA"],
+    tools: ["Docker", "Redis", "Git / GitHub", "Vercel", "Render", "AWS Fundamentals", "VS Code", "IntelliJ IDEA"],
   },
   projects: [
     {
@@ -69,7 +69,7 @@ export const portfolioData = {
       category: "ai",
       date: "Jan 2025",
       featured: false,
-      repo: "https://github.com/priyanshu886291kumar",
+      repo: "https://github.com/priyanshu886291kumar/emotion_based.music-player",
       description: "Developed a music streaming application with real-time facial emotion detection using DeepFace and Spotify API, dynamically mapping multiple facial emotions to personalized playlists.",
       highlights: [
         { label: "DeepFace & Vision", text: "Real-time webcam facial emotion recognition mapped to Spotify audio features." },
